@@ -3,4 +3,4 @@ WPR RESOLUSI
 - Belajar Phyton
 - Belajar Java
 - Belajar HTML
-- Belajar PHP
+- Belajar WEB Depveloper
